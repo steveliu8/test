@@ -1,0 +1,1 @@
+select * from c_user where id = 1
